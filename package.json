@@ -3,7 +3,7 @@
 	"displayName": "One Material Monokai Theme",
 	"description": "A cross between One Monokai and material theme",
 	"version": "1.0.0",
-	"publisher": "hossam",
+	"publisher": "hossamtaha",
 	"engines": {
 		"vscode": "^1.13.0"
 	},
