@@ -5,7 +5,7 @@ A cross between One Monokai and Material theme
 
 ## Install
 
-press `ctl/command + shift + p` to launch the command palette then run
+press `ctl/command + p` to launch the command palette then run
 ```
 ext install one-material-monokai
 ```
@@ -13,9 +13,20 @@ ext install one-material-monokai
 ## Screenshots
 Screenshot of Typescript and Json
 
-![Theme Screenshot](https://github.com/hossamt93/vscode-one-material-monokai/blob/master/material-monokai-1.PNG)
-![Theme Screenshot](https://github.com/hossamt93/vscode-one-material-monokai/blob/master/material-monokai-2.PNG)
-![Theme Screenshot](https://github.com/hossamt93/vscode-one-material-monokai/blob/master/material-monokai-3.PNG)
+
+![Theme Screenshot](https://raw.githubusercontent.com/hossamt93/vscode-one-material-monokai/master/material-monokai-1.PNG)
+
+
+
+
+![Theme Screenshot](https://raw.githubusercontent.com/hossamt93/vscode-one-material-monokai/master/material-monokai-2.PNG)
+
+
+
+
+
+![Theme Screenshot](https://raw.githubusercontent.com/hossamt93/vscode-one-material-monokai/master/material-monokai-3.PNG)
+
 
 
 
